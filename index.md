@@ -83,7 +83,7 @@
   <body>
     <div class="container">
       <h1>Hysticali</h1>
-      <p>Welcome to my sleek and modern web page.</p>
+      <p>Welcome to my web page.</p>
       <button type="button" onclick="alert('Hello World!')">Click Me!</button>
       <footer>
         <p>&copy; 2023 Derric Lee. All rights reserved.</p>
